@@ -23,7 +23,7 @@ Welcome to WeatherWhiz Forecast, your go-to weather forecasting web app! With We
 - **Location-Based Weather:** Allow WeatherWhiz Forecast to access your location permission to provide personalized weather updates based on your current location. Perfect for when you're on the go and need quick weather information.
 - **Real-Time Data:** Utilizing the OpenWeatherAPI, WeatherWhiz Forecast ensures that you receive the latest weather data, including wind speed, humidity, and cloud coverage, for accurate and up-to-date forecasts.
 
-## 📌 Live Site URL: <a href="https://weatherwhiz-forecast.netlify.app/">**Visit Now** 🚀</a>
+## 📌 Live Site URL: <a href="https://weatherwhiz-forecast-79.netlify.app/">**Visit Now** 🚀</a>
 
 ## 📬 Connect With Me
 
