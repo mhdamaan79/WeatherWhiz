@@ -1,6 +1,7 @@
-![screenshot](https://github.com/mhdamaan79/WeatherWhiz-Forecast/assets/118375524/603c1380-71a7-44f9-b89e-e66aeb43adc6)
+![Screenshot 2024-03-18 221851](https://github.com/mhdamaan79/WeatherWhiz-Forecast/assets/118375524/35fccfa7-2d6a-4443-b996-3c5061652b9a)
 
 ## 🌤️ WeatherWhiz-Forecast ⛈️
+
 
 Welcome to WeatherWhiz Forecast, your go-to weather forecasting web app! With WeatherWhiz Forecast, you can easily check the weather for any city or country around the globe, as well as get accurate weather updates based on your current location. This project utilizes the OpenWeatherAPI to provide real-time weather data, including wind speed, humidity, and cloud coverage.
 
